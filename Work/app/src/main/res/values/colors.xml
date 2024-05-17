@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#96DE21</color>
+    <color name="gradient1">#4CAF50</color>
+    <color name="gradient2">#9EDC39</color>
+    <color name="btnColor">#e79e3c</color>
+    <color name="textColor">#121214</color>
+    <color name="btnColor2">#df7055</color>
+    <color name="yellow">#FFEB3B</color>
+</resources>
