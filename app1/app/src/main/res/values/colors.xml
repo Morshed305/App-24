@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Gray80">#cccccc</color>
+    <color name="Jam_color">#b6c1ff</color>
+    <color name="Magenta">#FF00FF</color>
+    <color name="Poink_halka">#DEB7FF</color>
+    <color name="Blue_nav">#0B5394</color>
+    <color name="red">#FD0000</color>
+</resources>

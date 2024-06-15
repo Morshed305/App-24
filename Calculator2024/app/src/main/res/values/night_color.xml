@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="DisplayBackground">#E2e9ee</color>
+    <color name="PrimaryText">#323233</color>
+    <color name="Seconderytext">#74797c</color>
+    <color name="ActionText">#Ea6b6a</color>
+    <color name="EqualBtnBg">#36b8ab</color>
+    <color name="EqualbtnText">#fffefe</color>
+    <color name="BtnBg">#f5f6f8</color>
+    <color name="Divider">#e2e9ee</color>
+    <color name="StatusBar">#c3c7cb</color>
+</resources>
